@@ -1,0 +1,3 @@
+#!/bin/sh
+sh /etc/startSlave.sh
+exit 0
